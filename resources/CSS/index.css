@@ -1,0 +1,139 @@
+html {
+    min-height: 100%;
+    margin: 0;
+    background-image: url(./Images/Cuixmala.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    }
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: auto;
+    max-width: 30%;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+h2{
+    text-align: center;
+    margin-top: 0;
+}
+
+.text {
+    color: whitesmoke;
+}
+
+/*  -css for finished page-
+
+.header {
+    width: 100%;
+    height: 15%;
+    position: fixed;
+    background-color: rgb(180, 180, 180);
+}
+
+main {
+    background-image: url(./Images/Cuixmala.jpg);
+}
+*/
+
+
+
+/* 
+Commenting out this entire CSS secton
+
+body{        
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.container{
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally 
+}
+.fixed-header, .fixed-footer{
+    width: 100%;
+    height: 50px;
+    position: fixed;        
+    background: #333;
+    padding: 10px 0;
+    color: #fff;
+}
+.fixed-header{
+    top: 0;
+}
+.fixed-footer{
+    bottom: 0;
+}    
+Some more styles to beutify this example
+nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 25px;
+    display: inline-block;
+}
+
+.fixed-header img {
+    position: relative;
+    display: inline-block;
+    justify-content: left;
+    height: 100%;
+}
+
+ this is my oldest css. commenting out to write new css and re-style sheet to see what is easier 
+
+html {
+    min-height: 100%;
+    margin: 0;
+    background-image: url(./Images/Cuixmala.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#logo {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: 0px;
+}
+
+h1 {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    border-bottom: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    position: relative;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-weight: bold;
+}
+
+.header {
+    top: 0;
+}
+
+.footer {
+    bottom: 0;
+}
+*/
+
+
